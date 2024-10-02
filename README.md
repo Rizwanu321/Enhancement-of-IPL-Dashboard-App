@@ -18,9 +18,9 @@
 <br/>
 
 ####  Web Interface
-<a href="https://res.cloudinary.com/dngzbeidb/image/upload/v1727838396/17_hcvsf8.png" target=_blank_>
+<a href="https://res.cloudinary.com/dngzbeidb/image/upload/v1727839870/18_q1zkp1.png" target=_blank_>
 <div style="text-align: center;">
-    <img src="https://res.cloudinary.com/dngzbeidb/image/upload/v1727838396/17_hcvsf8.png" alt="IPL Dashboard App output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://res.cloudinary.com/dngzbeidb/image/upload/v1727839870/18_q1zkp1.png" alt="IPL Dashboard App output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 </a>
 <br>
