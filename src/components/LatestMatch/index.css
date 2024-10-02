@@ -1,0 +1,70 @@
+.latest-match-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0f172a;
+  color: #ffffff;
+  border-radius: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-family: 'Bree Serif';
+}
+.competing-team-logo {
+  width: 20%;
+}
+.details1-container {
+  width: 30%;
+}
+.details2-container {
+  text-align: right;
+  width: 30%;
+}
+.competing-team {
+  font-weight: 500;
+  font-size: 44px;
+}
+.date {
+  font-size: 24px;
+}
+.head {
+  font-size: 20px;
+  font-weight: 500;
+}
+.sub {
+  font-size: 14px;
+  font-weight: 400;
+}
+.line {
+  display: none;
+}
+@media (max-width: 767px) {
+  .latest-match-container {
+    flex-wrap: wrap;
+  }
+  .details1-container {
+    width: 60%;
+  }
+  .details2-container {
+    text-align: left;
+    width: 100%;
+  }
+  .competing-team-logo {
+    width: 25%;
+  }
+  .competing-team {
+    font-size: 20px;
+  }
+  .date {
+    font-size: 18px;
+  }
+  .line {
+    display: block;
+    width: 100%;
+  }
+  .venue-res {
+    font-size: 12px;
+  }
+  .head {
+    font-size: 18px;
+  }
+}

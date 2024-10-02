@@ -1,0 +1,64 @@
+.match-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 32%;
+  background-color: #0f172a;
+  border-radius: 10px;
+  margin-top: 20px;
+  font-family: 'Bree Serif';
+  padding-top: 20px;
+  padding-bottom: 35px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+}
+.match-team-logo {
+  height: 130px;
+}
+.opp-team-name {
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  height: 10vh;
+}
+.final-result {
+  color: #ffffff;
+  font-size: 20px;
+}
+.red {
+  color: #e31a1a;
+  font-size: 28px;
+}
+.green {
+  color: #18ed66;
+  font-size: 28px;
+}
+
+@media (max-width: 767px) {
+  .match-list-container {
+    width: 48%;
+    padding: 15px 10px 15px 10px;
+  }
+  .opp-team-name {
+    font-size: 20px;
+  }
+  .match-team-logo {
+    height: 60px;
+  }
+  .final-result {
+    font-size: 12px;
+    height: 10vh;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .red {
+    font-size: 20px;
+    margin-top: 0;
+  }
+  .green {
+    font-size: 20px;
+    margin-top: 0;
+  }
+}
