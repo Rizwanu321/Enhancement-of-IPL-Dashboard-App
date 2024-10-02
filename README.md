@@ -10,9 +10,9 @@
 #### Mobile Interface
 
 <br/>
-<a href="https://res.cloudinary.com/dngzbeidb/image/upload/v1727838396/17_hcvsf8.png" target=_blank_>
+<a href="https://res.cloudinary.com/dngzbeidb/image/upload/v1727838858/WhatsApp_Image_2024-10-02_at_08.43.53_ff747254_isztiw.jpg" target=_blank_>
 <div style="text-align: center;">
-    <img src="https://res.cloudinary.com/dngzbeidb/image/upload/v1727838396/17_hcvsf8.png" alt="IPL Dashboard App output" style="max-width:40%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://res.cloudinary.com/dngzbeidb/image/upload/v1727838858/WhatsApp_Image_2024-10-02_at_08.43.53_ff747254_isztiw.jpg" alt="IPL Dashboard App output" style="max-width:40%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 </a>
 <br/>
